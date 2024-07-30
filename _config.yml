@@ -1,14 +1,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: HyunWoo Kim
+title: Hanbyeol Jin
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
-baseurl: "" # the subpath of the site
-url: "https://HueyKim.github.io" # the base hostname & protocol for the site
+baseurl: '' # the subpath of the site
+url: 'https://moonbyeol.github.io' # the base hostname & protocol for the site
 # url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+og_image: /assets/img/profile-pic_2.jpg
+google_analytics: 'UA-121636368-3'
 
 header:
   pages:
@@ -22,7 +22,7 @@ footer:
   contact:
     - type: email
       name: Email
-      value: khw11044@gmail.com
+      value: byelb613@gmail.com
     # - type: wechat
     #   value: YourWeChatUsername
     #   link: "#"
@@ -30,16 +30,16 @@ footer:
     # - type: twitter
     #   name: Twitter
     #   link: http://twitter.com/YourTwitterUsername
-      # username: "@YourTwitterUsername"
+    # username: "@YourTwitterUsername"
     # - type: facebook
     #   name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: https://www.linkedin.com/in/hyunwoo-kim-35a441205/
+    # - type: linkedin
+    #   name: LinkedIn
+    #   link:
     - type: github
       name: GitHub
-      link: https://github.com/khw11044
+      link: https://github.com/Moonbyeol
     # - type: dribbble
     #   name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
@@ -50,7 +50,7 @@ footer:
 # Build settings
 markdown: kramdown
 sass:
-    style: :compressed
+  style: :compressed
 plugins:
   - jekyll-feed
 
